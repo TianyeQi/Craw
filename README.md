@@ -24,6 +24,10 @@ Go to where you put the Profiler, open CMD and run:
 ```
 mvn install
 ```
+Go to target file and type:
+```
+java -jar crawler.jar
+```
 Then open your browser access to http://localhost:3000/
 
 ## Instruction 
